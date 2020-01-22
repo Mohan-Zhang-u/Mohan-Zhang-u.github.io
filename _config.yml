@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Mohan Zhang"
-  avatar           : "profile.png"
+  avatar           : ""
   bio              : "Master of Science in Applied Computing, University of Toronto"
-  location         : "St. George Campus, Toronto, Canada"
+  location         : "Toronto, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
