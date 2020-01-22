@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a first-year MScAC student at University of Toronto. before that, I completed my undergrad with CS specialist and math major at the same university.
+I'm currently a first-year MScAC student at University of Toronto. Before that, I completed my undergrad with CS specialist and math major at the same university.

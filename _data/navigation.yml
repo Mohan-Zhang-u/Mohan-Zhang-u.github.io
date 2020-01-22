@@ -2,8 +2,8 @@
 main:
  
 
-  - title: "Teaching"
-    url: /teaching/   
+  # - title: "Teaching"
+  #   url: /teaching/   
 
   - title: "Resume"
     url: /files/Resume.pdf 
@@ -26,4 +26,5 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  # education, resume, experience, publication, projects, music
+  # TODO:
+  # teaching, education, resume, experience, publication, projects, music
