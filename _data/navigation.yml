@@ -5,6 +5,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
 
+  - title: "Abouttest"
+    url: /abouttest/
 
   - title: "Experience"
     url: /experience/
