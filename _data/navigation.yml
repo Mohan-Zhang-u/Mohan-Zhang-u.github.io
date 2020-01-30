@@ -1,11 +1,14 @@
 # main links links
 main:
 
+  - title: "Teaching"
+    url: /singleteaching/
+
   - title: "Experience"
     url: /experience/
 
-  - title: "Teaching"
-    url: /singleteaching/
+  - title: "Musics"
+    url: /musics/
 
   - title: "Resume"
     url: https://www.overleaf.com/read/dpxkcmnrkwcj
