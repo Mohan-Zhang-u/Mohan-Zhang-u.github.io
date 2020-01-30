@@ -8,7 +8,7 @@ main:
     url: /singleteaching/
 
   - title: "Resume"
-    url: /files/Resume.pdf 
+    url: https://www.overleaf.com/read/dpxkcmnrkwcj
 
   # - title: "Publications"
   #   url: /publications/
