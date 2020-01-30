@@ -3,9 +3,19 @@ permalink: /test/
 title: "TEST"
 excerpt: "TEST"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I'm currently TESTTESTTEST
+
+##H2
+
+adsfads
+
+#### h4
+
+whtrw
+
+asdfasdf
+====
+asdfasdf
+sdafsdaf
