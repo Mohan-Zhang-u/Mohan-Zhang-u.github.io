@@ -2,11 +2,8 @@
 main:
  
 
-  # - title: "Teaching"
-  #   url: /teaching/
-
-  - title: "test"
-    url: /test/
+  - title: "Teaching"
+    url: /singleteaching/
 
   - title: "Experience"
     url: /experience/
