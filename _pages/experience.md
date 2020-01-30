@@ -13,7 +13,7 @@ Researching on market analysis and companies' credibility check with neural NLP 
 ### [PAIR Lab Toronto](https://pairlab.github.io/)
 #### Research Assistant
 *Toronto, Jan. 2020 - Present* <br/>
-Working on a Multi-Agent reinforcement learning project under the supervision of Professor [Animesh Garg](https://www.cs.toronto.edu/~garg/).
+Working on a Multi-Agent reinforcement learning project under the supervision of professor [Animesh Garg](https://www.cs.toronto.edu/~garg/).
 
 ### [Exxon Mobil](https://corporate.exxonmobil.com/Locations/Canada)
 #### (Full Time) Machine Learning Developer Intern
