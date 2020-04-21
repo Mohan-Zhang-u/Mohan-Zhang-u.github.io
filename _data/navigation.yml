@@ -13,6 +13,12 @@ main:
   - title: "Games"
     url: /games/
 
+  - title: "Awards"
+    url: /awards/
+
+  - title: "Patents"
+    url: /Patents/
+
   - title: "Resume"
     url: https://www.overleaf.com/read/dpxkcmnrkwcj
 #    url: /files/Resume.pdf

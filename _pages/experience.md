@@ -10,7 +10,7 @@ author_profile: true
 *Toronto, Sep. 2019 - Present* <br/>
 Researching on market analysis and companies' credibility check with neural NLP models.
 
-### [PAIR Lab Toronto](https://pairlab.github.io/)
+### [Vector Institute](https://vectorinstitute.ai/)
 #### Research Assistant
 *Toronto, Jan. 2020 - Present* <br/>
 Working on a Multi-Agent reinforcement learning project under the supervision of professor [Animesh Garg](https://www.cs.toronto.edu/~garg/).
