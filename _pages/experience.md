@@ -5,6 +5,11 @@ excerpt: "Experience"
 author_profile: true
 ---
 
+### [RSVP.ai](https://www.rsvp.ai/en/#/index)
+#### Machine Learning Research Intern
+*Toronto, May 2020 - Feb. 2020* <br/>
+Researching on multi-language paraphrasing and its evaluation. Also helping on QA systems. Under the supervision of professor [Animesh Garg](https://www.cs.toronto.edu/~garg/) and [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/).
+
 ### [Guanghua-Rotman Centre for Information and Capital Market Research](https://guanghua-rotman.work/td)
 #### Research Associate 
 *Toronto, Sep. 2019 - Present* <br/>
@@ -23,7 +28,7 @@ The job also included meeting with different vendors to decide whether they are 
 
 ### [Oracle R&D](https://labs.oracle.com)
 #### (Full Time) Software Developer Intern
-*Toronto, May 2018 - August 2018* <br/>
+*Toronto, May 2018 - Aug. 2018* <br/>
 Developed new functionalities with the agile approach for Oracle Eloqua; Helped to manage large quantity of data in a distributed system. Also developed Backend functionalities with C\# and various kinds of database systems, as well as QA automation.
 
 ### [Rotman Commerce](https://rotmancommerce.utoronto.ca)
