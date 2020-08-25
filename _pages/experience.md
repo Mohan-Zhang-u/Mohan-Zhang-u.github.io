@@ -7,7 +7,7 @@ author_profile: true
 
 ### [RSVP.ai](https://www.rsvp.ai/en/#/index)
 #### Machine Learning Research Intern
-*Toronto, May 2020 - Feb. 2020* <br/>
+*Toronto, May 2020 - Dec. 2020* <br/>
 Researching on multi-language paraphrasing and its evaluation. Also helping on QA systems. Under the supervision of professor [Animesh Garg](https://www.cs.toronto.edu/~garg/) and [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/).
 
 ### [Guanghua-Rotman Centre for Information and Capital Market Research](https://guanghua-rotman.work/td)
