@@ -8,17 +8,23 @@ author_profile: true
 ### [RSVP.ai](https://www.rsvp.ai/en/#/index)
 #### Machine Learning Research Intern
 *Toronto, May 2020 - Dec. 2020* <br/>
-Researching on multi-language paraphrasing and its evaluation. Also helping on QA systems. Under the supervision of professor [Animesh Garg](https://www.cs.toronto.edu/~garg/) and [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/).
+Researched on multi-language paraphrasing and its evaluation. Also helped on QA systems. Under the supervision of professor [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) and [Animesh Garg](https://www.cs.toronto.edu/~garg/).
 
 ### [Guanghua-Rotman Centre for Information and Capital Market Research](https://guanghua-rotman.work/td)
 #### Research Associate 
-*Toronto, Sep. 2019 - Present* <br/>
-Researching on market analysis and companies' credibility check with neural NLP models.
+*Toronto, Sep. 2019 - Dec. 2020* <br/>
+Researched on market analysis and companies' credibility check with neural NLP models.
+
+### [Rotman Commerce](https://rotmancommerce.utoronto.ca)
+#### Research Assistant 
+*Toronto, Jan. 2018 - Jul. 2019* <br/>
+Used Various NLP and Deep learning methods to analyze the relationship between millions of news articles and the credibility of listed companies.
+Under the supervision of professor [Hai Lu](http://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Lu.aspx)
 
 ### [Vector Institute](https://vectorinstitute.ai/)
 #### Research Assistant
-*Toronto, Jan. 2020 - Present* <br/>
-Working on a Multi-Agent reinforcement learning project under the supervision of professor [Animesh Garg](https://www.cs.toronto.edu/~garg/).
+*Toronto, Jan. 2020 - Dec. 2020* <br/>
+Worked on a Multi-Agent reinforcement learning project under the supervision of professor [Animesh Garg](https://www.cs.toronto.edu/~garg/).
 
 ### [Exxon Mobil](https://corporate.exxonmobil.com/Locations/Canada)
 #### (Full Time) Machine Learning Developer Intern
@@ -31,11 +37,6 @@ The job also included meeting with different vendors to decide whether they are 
 *Toronto, May 2018 - Aug. 2018* <br/>
 Developed new functionalities with the agile approach for Oracle Eloqua; Helped to manage large quantity of data in a distributed system. Also developed Backend functionalities with C\# and various kinds of database systems, as well as QA automation.
 
-### [Rotman Commerce](https://rotmancommerce.utoronto.ca)
-#### Research Assistant 
-*Toronto, Jan. 2018 - Jul. 2019* <br/>
-Used Various NLP and Deep learning methods to analyze the relationship between millions of news articles and the credibility of listed companies.
-Under the supervision of professor [Hai Lu](http://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Lu.aspx)
 
 
 

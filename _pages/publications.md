@@ -16,11 +16,10 @@ author_profile: true
 {% endfor %} -->
 
 
-### [To Paraphrase or Not To Paraphrase: User-Controllable Selective Paraphrase Generation](https://arxiv.org/abs/2008.09290)
+### [(EACL 2021) Don't Change Me! User-Controllable Selective Paraphrase Generation](https://arxiv.org/abs/2008.09290)
 ***Mohan Zhang**, Luchen Tan, Zhengkai Tu, Zihang Fu, Kun Xiong, Ming Li and Jimmy Lin* <br/>
 #### At University of Toronto and RSVP.ai
-Abstract: In this article, we propose a paraphrase generation technique to keep the key phrases in source sentences during paraphrasing. We also develop a model called TAGPA with such technique, which has multiple pre-configured or trainable key phrase detector and a paraphrase generator. The paraphrase generator aims to keep the key phrases and increase the diversity of the paraphrased sentences. The key phrases can be entities provided by our user, like company names, people's names, domain-specific terminologies, etc., or can be learned from a given dataset. <br/>
-Pending more experiment results and preparing for submission.
+Abstract: In the paraphrase generation task, source sentences often contain phrases that should not be altered. Which phrases, however, can be context dependent and can vary by application. Our solution to this challenge is to provide the user with explicit tags that can be placed around any arbitrary segment of text to mean "don't change me!" when generating a paraphrase; the model learns to explicitly copy these phrases to the output. The contribution of this work is a novel data generation technique using distant supervision that allows us to start with a pretrained sequence-to-sequence model and fine-tune a paraphrase generator that exhibits this behavior, allowing user-controllable paraphrase generation. Additionally, we modify the loss during fine-tuning to explicitly encourage diversity in model output. Our technique is language agnostic, and we report experiments in English and Chinese.
 
 ### [PtEQA: Domain Specific Question Answering with Document Extraction Utilizing Pre-trained Weights](https://github.com/Mohan-Zhang-u/MyQA/blob/master/PtEQA__Domain_Specific_Question_Answering_with_Document_Extraction_Utilizing_Pre_trained_Weights_LREC.pdf)
 ***Mohan Zhang**, Sudeep Singh and Pawel Maciszewski* <br/>
