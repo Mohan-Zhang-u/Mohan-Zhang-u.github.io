@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 ### Do Not Use the Transformers Custom Loss Example
-https://huggingface.co/transformers/main_classes/trainer.html#trainingarguments
-the example code here
+*2021 Mar. 10*
+
+the [example code here](https://huggingface.co/transformers/main_classes/trainer.html#trainingarguments)
 ```python
 from transformers import Trainer
 class MyTrainer(Trainer):
