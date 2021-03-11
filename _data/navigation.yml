@@ -22,6 +22,9 @@ main:
   - title: "Patents"
     url: /patents/
 
+  - title: "Blogs"
+    url: /blogs/
+
   - title: "Resume"
     url: https://www.overleaf.com/read/szysjgpnkkvm
 #    url: /files/Resume.pdf
