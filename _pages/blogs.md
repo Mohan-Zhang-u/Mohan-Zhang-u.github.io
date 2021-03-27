@@ -50,7 +50,52 @@ class MyTrainer(Trainer):
         return my_custom_loss(logits, labels)
 ```
 
+### Tranformers' pipeline refinement
+*2021 Mar. 14*
 
+tranformers' original Pipeline does not include batchify and truncate the input, but you can fix this with newly defined classes, exampled as below:
+
+```python
+from transformers.tokenization_utils_base import TruncationStrategy
+import more_itertools
+import math
+
+
+class RefinedTextClassificationPipeline(TextClassificationPipeline):
+
+    def __init__(self, truncation=TruncationStrategy.DO_NOT_TRUNCATE, max_length=512, batch_size=128, **kwargs):
+        super().__init__(**kwargs)
+        self.truncation = truncation  # whether to truncate the input sequence or not
+        self.max_length = max_length  # what is the max sequence length if want to truncate 
+
+    def _parse_and_tokenize(
+        self, inputs, padding=True, add_special_tokens=True, **kwargs
+    ):
+        """
+        Parse arguments and tokenize
+        """
+        # Parse arguments
+        inputs = self.tokenizer(
+            inputs,
+            add_special_tokens=add_special_tokens,
+            return_tensors=self.framework,
+            padding=padding,
+            truncation=self.truncation,
+            max_length=self.max_length,
+        )
+
+        return inputs
+
+    def __call__(self, *args, **kwargs):
+        input_list = inputs
+        # do whatever customized unwrap to the input you need here, assume now you have a input_list
+        unwraped_inputs_dicts = [None] * (math.ceil(len(input_list)/prediction_batch_size)) 
+        for i, inputs in tqdm(enumerate(more_itertools.chunked(input_list, prediction_batch_size))):
+            inputs = self._parse_and_tokenize(inputs, *args, **kwargs)
+            unwraped_inputs_dicts[i] = self._forward(inputs)
+            # wrap unwraped_inputs_dicts up to the dictionary form again
+        inputs = input_list
+```
 
 
 
