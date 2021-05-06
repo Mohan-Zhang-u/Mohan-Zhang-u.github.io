@@ -7,7 +7,7 @@ author_profile: true
 
 ### [Quartic.ai](https://www.quartic.ai/)
 #### (Full Time) Resaerch Engineer
-*Toronto, Apr. 2021 - * <br/>
+*Toronto, Apr. 2021 - present* <br/>
 Researching on Reinforcement Learning, especially imitation learning. 
 
 ### [RSVP.ai](https://www.rsvp.ai/en/#/index)
