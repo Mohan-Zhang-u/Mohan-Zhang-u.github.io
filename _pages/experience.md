@@ -5,9 +5,14 @@ excerpt: "Experience"
 author_profile: true
 ---
 
+### [Quartic.ai](https://www.rsvp.ai/en/#/index)
+#### (Full Time) Resaerch Engineer
+*Toronto, Apr. 2021 - * <br/>
+Researching on Reinforcement Learning, especially imitation learning. 
+
 ### [RSVP.ai](https://www.rsvp.ai/en/#/index)
-#### Machine Learning Research Intern
-*Toronto, May 2020 - Dec. 2020* <br/>
+#### (Full Time) Machine Learning Research Intern / Machine Learning Developer
+*Toronto, May 2020 - Dec. 2020 / Jan. 2021 - Mar. 2021* <br/>
 Researched on multi-language paraphrasing and its evaluation. Also helped on QA systems. Under the supervision of professor [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) and [Animesh Garg](https://www.cs.toronto.edu/~garg/).
 
 ### [Guanghua-Rotman Centre for Information and Capital Market Research](https://guanghua-rotman.work/td)
