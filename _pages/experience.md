@@ -5,7 +5,7 @@ excerpt: "Experience"
 author_profile: true
 ---
 
-### [Quartic.ai](https://www.rsvp.ai/en/#/index)
+### [Quartic.ai](https://www.quartic.ai/)
 #### (Full Time) Resaerch Engineer
 *Toronto, Apr. 2021 - * <br/>
 Researching on Reinforcement Learning, especially imitation learning. 
