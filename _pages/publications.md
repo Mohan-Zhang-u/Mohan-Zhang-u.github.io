@@ -15,9 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-### [(Under Review, NeurIPS 2022) SMPL: Simulated Industrial Manufacturing and Process Control Learning Environments](https://arxiv.org/abs/2206.08851)
+### [(NeurIPS 2022) SMPL: Simulated Industrial Manufacturing and Process Control Learning Environments](https://openreview.net/forum?id=TscdNx8udf5)
 ***Mohan Zhang**, Xiaozhou Wang, Benjamin Decardi-Nelson, Bo Song, An Zhang, Jinfeng Liu, Sile Tao, Jiayi Cheng, Xiaohong Liu, DengDeng Yu, Matthew Poon, Animesh Garg* <br/>
-<!-- #### At the University of Toronto and RSVP.ai -->
+<!-- #### At the University of Toronto and Quartic.ai -->
 Abstract: Traditional biological and pharmaceutical manufacturing plants are controlled by human workers or pre-defined thresholds. Modernized factories have advanced process control algorithms such as model predictive control (MPC). However, there is little exploration of applying deep reinforcement learning to control manufacturing plants. One of the reasons is the lack of high fidelity simulations and standard APIs for benchmarking. To bridge this gap, we develop an easy-to-use library that includes five high-fidelity simulation environments: BeerFMTEnv, ReactorEnv, AtropineEnv, PenSimEnv and mAbEnv, which cover a wide range of manufacturing processes. We build these environments on published dynamics models. Furthermore, we benchmark online and offline, model-based and model-free reinforcement learning algorithms for comparisons of follow-up research.
 
 
