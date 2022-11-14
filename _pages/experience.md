@@ -5,9 +5,14 @@ excerpt: "Experience"
 author_profile: true
 ---
 
+### [Thomson Reuters](https://www.thomsonreuters.com/)
+#### (Full Time) Applied Research Scientist
+*Toronto, Nov. 2022 - present* <br/>
+Researched on Natural Language Processing.
+
 ### [Quartic.ai](https://www.quartic.ai/)
 #### (Full Time) Research Engineer
-*Toronto, Apr. 2021 - present* <br/>
+*Toronto, Apr. 2021 - Nov. 2022* <br/>
 Researched on applying offline reinforcement learning to manufacturing processes, as well as adapting transformers to reinforcement learning. \
 Researched on black-box optimization, especially Bayesian optimization.
 
