@@ -8,7 +8,7 @@ author_profile: true
 ### [Thomson Reuters](https://www.thomsonreuters.com/)
 #### (Full Time) Applied Research Scientist
 *Toronto, Nov. 2022 - present* <br/>
-Researched on Natural Language Processing.
+Researched on Natural Language Processing and Reinforcement Learning.
 
 ### [Quartic.ai](https://www.quartic.ai/)
 #### (Full Time) Research Engineer
