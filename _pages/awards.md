@@ -7,8 +7,8 @@ author_profile: true
 
 ### [Learning By Doing – NeurIPS 2021 Competition](https://learningbydoingcompetition.github.io/files/competition_whitepaper.pdf)
 *Toronto, 2021* <br/>
-We are the 2nd place in both CHEM and ROBO track.
-This is a data-sparse (only a few hundred trajectories!) dynamical system control challenge, including both open-loop and closed-loop control.
+We are the 2nd place in both CHEM and ROBO tracks.
+They are data-sparse (only a few hundred trajectories!) dynamical system control challenges, including both open-loop and closed-loop control.
 We tackled the challenge with feature engineering and hand-crafted neural networks. The 1st place winner solved the problem by reverse-engineering the parameters of differential equations.
 
 ### [Vector Research Grant](https://vectorinstitute.ai/)
