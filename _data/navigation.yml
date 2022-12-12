@@ -13,9 +13,6 @@ main:
   - title: "Musics"
     url: /musics/
 
-  - title: "MusicsIframe"
-    url: /musicsiframe/
-
   - title: "Games"
     url: /games/
 
