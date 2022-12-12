@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mohan Zhang"
 title_separator          : "-"
 name                     : &name "Mohan Zhang"
-description              : &description "Master of Science in Applied Computing, University of Toronto"
+description              : &description "Master of Science, University of Toronto"
 url                      : https://Mohan-Zhang-u.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Mohan-Zhang-u.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mohan Zhang"
   avatar           : "CasualPic.jpg"
-  bio              : "Master of Science in Applied Computing, University of Toronto"
+  bio              : "Master of Science, University of Toronto"
   location         : "Toronto"
   employer         :
   pubmed           : 
