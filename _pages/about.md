@@ -12,4 +12,4 @@ I'm currently leading the AI Investments at [Sixty Degree Capital](https://www.s
 
 Previously, I was an Applied Research Scientist at Thomson Reuters Labs, working on the training, evaluation, and deployment of language models.
 
-I hold a Master of Science in Applied Computing from the University of Toronto, where I also earned a Bachelor of Science in Computer Science (specialist in Artificial Intelligence) and Mathematics (major)
+I hold a Master of Science in Applied Computing from the University of Toronto, where I also earned a Bachelor of Science in Computer Science (specialist in Artificial Intelligence) and Mathematics (major).
