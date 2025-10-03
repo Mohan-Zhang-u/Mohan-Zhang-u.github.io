@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a tech investor at [Sixty Degree Capital](https://www.omersventures.com/). I invest in technology companies, especially in the field of AI/ML.
+I'm currently leading the AI Investments at [Sixty Degree Capital](https://www.sixtydegreecapital.com/#portfolio), with a focus on AI infrastructure, developer tools, open-source, and AI applications.
 
-Previously, I was an Applied Research Scientist at Thomson Reuters. 
+Previously, I was an Applied Research Scientist at Thomson Reuters Labs, working on the training, evaluation, and deployment of language models.
 
-
-I obtained my Master of Science in Applied Computing from the University of Toronto. Prior to that, I received my bachelor's degree with the Computer Science specialist in Artificial Intelligence and the math major from the same university.
+I hold a Master of Science in Applied Computing from the University of Toronto, where I also earned a Bachelor of Science in Computer Science (specialist in Artificial Intelligence) and Mathematics (major)
