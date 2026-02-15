@@ -5,6 +5,11 @@ excerpt: "Experience"
 author_profile: true
 ---
 
+### [Sixty Degree Capital](https://sixtydegreecapital.com/our-portfolio/)
+#### (Full Time) AI Investment Lead
+*Toronto, Apr. 2024 - present* <br/>
+Leading the AI investment.
+
 ### [Thomson Reuters](https://www.thomsonreuters.com/)
 #### (Full Time) Applied Research Scientist
 *Toronto, Nov. 2022 - present* <br/>
